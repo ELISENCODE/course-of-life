@@ -1,0 +1,65 @@
+body {
+    background-color: #e0ebe8;
+}
+
+h1 {
+    text-align: center;
+    color: #66bfbf;
+}
+
+h4 {
+    text-align: center;
+}
+
+h3 {
+    color: #66bfbf;
+}
+
+.container {
+    height: 300px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.whoAmI {
+    padding: 10px;
+    text-align: center;
+    color: #545454;
+}
+
+hr {
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+.aboutMeImg {
+    border-radius: 50%;
+    height: 200px;
+}
+
+.meOdinProjetImg {
+    border-radius: 50%;
+    height: 500px;
+    width: auto;
+}
+
+.meGithubIoImg {
+    height: auto;
+}
+
+.contactMe {
+    background-color: #f76b8a;
+}
+
+blockquote {
+    border: 1px solid #1b7f69;
+    padding: 10px;
+    text-align: justify;
+    color: #eaf6f6;
+    background: #66bfbf;
+}
