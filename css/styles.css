@@ -1,5 +1,6 @@
 body {
-    background-color: #e0ebe8;
+    background-color: #eaf6f6;
+    /* Hex color: turquoise grey pink white */
 }
 
 h1 {
@@ -57,7 +58,7 @@ hr {
 }
 
 blockquote {
-    border: 1px solid #1b7f69;
+    border: 1px solid #66bfbf;
     padding: 10px;
     text-align: justify;
     color: #eaf6f6;
